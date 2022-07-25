@@ -42,7 +42,7 @@ hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
-hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
+hash = "76c735cd81f23a0385224188e4bf8cd0d41aa3c8f2327c25382c4caeb4cd4d6d"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
@@ -50,7 +50,7 @@ hash = "35cb31f6ae8e293fed8e4eb5dff841c1e913ca2342af5fd47296f31024e14950"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
+hash = "dca8984067baec0c454148f88c113e63cda5a2b17b90a14c6a9e3319860c6473"
 
 [[files]]
 file = "config/yosbr/config/lambdabettergrass.toml"
@@ -90,7 +90,7 @@ hash = "3f36783e1bf3267cc6182be453e948c35a03d3c37ad1a676dddacd594bb15ee7"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c3b39f1ba36ba2f3ee51b9129cc928cc95e638fa6911b851d43c9ab20fba1765"
+hash = "62851ec2ce18eb823c468f9a86ccb97439f29cc52a36ee3a0b71e1b605873290"
 
 [[files]]
 file = "config/yosbr/shaderpacks/normal-luma.txt"
