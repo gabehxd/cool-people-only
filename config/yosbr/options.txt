@@ -17,6 +17,7 @@ chatPreview:false
 chatScale:0.7629107981220656
 directionalAudio:true
 fov:0.5
+gamma:1.0
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.gui:key.keyboard.unknown
