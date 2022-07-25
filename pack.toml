@@ -1,4 +1,4 @@
-name = "Cool People Only! Modpack"
+name = "Cool People Only!"
 author = "gabeh"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9ed3f8faec887469fb055faee2a6b2c7c6d6f02035bd75ce5c3f03a51e117d48"
+hash = "e91fc94bbe1fe487ed6e905c080d58090f704155a4737d773f6dfed92b277d56"
 
 [versions]
 fabric = "0.14.8"
