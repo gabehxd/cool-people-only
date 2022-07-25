@@ -69,8 +69,12 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "b9196e07b7b1a7239992b737b50ea35a337c87d1828a20d5f23300b18050f37c"
 
 [[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "1caf8617282878d347ee6ba11760739518d5ebd912c094ae94d7a4f5f4d0d647"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
+hash = "cac7860a569ffeecc29deeeb6c1e18af72144d517c5a3c5f2eb234488b1304fb"
 
 [[files]]
 file = "config/yosbr/config/tr7zwDonorSettings.json"
