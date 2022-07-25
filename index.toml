@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "20e824320bbf6cddb9dcf3affc267f5b4e9855eb561f9df7a0a9cf0e172ca544"
+
+[[files]]
 file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
@@ -14,7 +18,7 @@ hash = "5c0926fe0e7686e798d0486781a0c6510394e4a5a96f2d7f2952761cef64f9c5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c8d3b768bf4db3fb08e165be5dfefa2cf6494ddcb408f87a9a1b51ece345af7c"
+hash = "207d0f899d480874062abc7adcfb5adce38fcf660d61d9c46235efed2da4e228"
 
 [[files]]
 file = "config/modmenu.json"
@@ -23,6 +27,18 @@ hash = "b2d6f97d6f09d3c02504264a778ab1958378c91e5d743afed9ab71846073bf60"
 [[files]]
 file = "config/puzzle.json"
 hash = "2a7c463f581910b0daf713ece461106f92894f9cb4af3655dad13152003005cf"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "eccaf47a968862f88a806d77c684cd5fe4daf36bb96d0139815790570b95262e"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "dfc38f651d5a021141fd25683d8f0bd7da7b759e89eee4e622577632de8403c6"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "3f36783e1bf3267cc6182be453e948c35a03d3c37ad1a676dddacd594bb15ee7"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
@@ -42,7 +58,7 @@ hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
-hash = "76c735cd81f23a0385224188e4bf8cd0d41aa3c8f2327c25382c4caeb4cd4d6d"
+hash = "a5487e94d3b190669506981ed0fad4d4ff38a9bbb9a1d3cf71383be9aad140aa"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
@@ -81,28 +97,8 @@ file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
-file = "config/yosbr/config/xaerominimap.txt"
-hash = "eccaf47a968862f88a806d77c684cd5fe4daf36bb96d0139815790570b95262e"
-
-[[files]]
-file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "3f36783e1bf3267cc6182be453e948c35a03d3c37ad1a676dddacd594bb15ee7"
-
-[[files]]
 file = "config/yosbr/options.txt"
 hash = "62851ec2ce18eb823c468f9a86ccb97439f29cc52a36ee3a0b71e1b605873290"
-
-[[files]]
-file = "config/yosbr/shaderpacks/normal-luma.txt"
-hash = "17304b1198ab5d98d0f7eb21a58adfe81086c50a9fc5fe13724d1c24aefb5e08"
-
-[[files]]
-file = "config/yosbr/shaderpacks/projectLUMA+-+v1.32.zip.txt"
-hash = "c4f3b818c971f744f38d40e5c3134f63ff8a2e8f1db27dbbd9c0573bbd2d08a9"
-
-[[files]]
-file = "config/yosbr/simple-rpc/simple-rpc.toml"
-hash = "db0fa7d376aaad8b17182f118a94f2a5287092573e14c313ed094b354ea65de5"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -397,3 +393,15 @@ hash = "67b465e35500cdf83b751ded61ee1a1286a1e466a26e9a73353a17c7e2f37d29"
 file = "resourcepacks/visible-ores.pw.toml"
 hash = "201f432e35fc029acbb4a523b6856968b6ad1cbd9ec728fbbeef3844c5e57d7a"
 metafile = true
+
+[[files]]
+file = "shaderpacks/normal-luma.txt"
+hash = "17304b1198ab5d98d0f7eb21a58adfe81086c50a9fc5fe13724d1c24aefb5e08"
+
+[[files]]
+file = "shaderpacks/projectLUMA+-+v1.32.zip.txt"
+hash = "c4f3b818c971f744f38d40e5c3134f63ff8a2e8f1db27dbbd9c0573bbd2d08a9"
+
+[[files]]
+file = "simple-rpc/simple-rpc.toml"
+hash = "db0fa7d376aaad8b17182f118a94f2a5287092573e14c313ed094b354ea65de5"
