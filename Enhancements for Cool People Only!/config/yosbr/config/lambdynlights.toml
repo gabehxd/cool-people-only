@@ -1,4 +1,4 @@
-mode = "fancy"
+mode = "fast"
 
 [light_sources]
 	water_sensitive_check = true
