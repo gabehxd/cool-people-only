@@ -6,7 +6,7 @@ cd "fo"
 packwiz.exe curseforge import %1
 cd ..
 xcopy "fo\" "output\" /S /Y
-xcopy "Cool People Only!\" "output\" /S /Y
+xcopy "Enhancements for Cool People Only!\" "output\" /S /Y
 cd "output\"
 del %1
 packwiz.exe refresh
