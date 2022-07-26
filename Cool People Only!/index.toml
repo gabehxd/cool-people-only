@@ -34,47 +34,47 @@ hash = "62851ec2ce18eb823c468f9a86ccb97439f29cc52a36ee3a0b71e1b605873290"
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "be4a87d6527bbe07b2e6d38e32995779bd5760340505f58391e6318f16ca3f0d"
+hash = "e4771d001832c766ff865b602bbca649de026aa2451a21e1e255446e9be8302c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1c85df49ef6653679a899b14323d0abe11a99b121c2571f236704d98b4beab24"
+hash = "9a606fe0dd0c54fa6af3444e7c1c5e392265ebda4c0a67d02a0a3904972102af"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "572988bee9c9a34f18f14c58158490b82f8b231a7fa83a4bd9a22b551104c7c7"
+hash = "2633c5f40b581ab468143776e8bb54e022cb8aa9ec6c50abfbc2e007915c9f7d"
 metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "862bc383215946d783029c463ca836da4aa8bba25c59601a685f01c30de5232a"
+hash = "e6a5f36b516de503c3be53e7980f3c6969aa48543ef1e112b8811c9ca7e060cf"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "13ecd6e934bd20d8f9f38651a9ffe297a22a8ddadfe95cbdc18451d7f3ef3833"
+hash = "a7a998b00200e5f972168fee92c1ede7fd109c64809551f8fee815880f90c13f"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "9147518131e7044466091721dea402eedac68230ca72ba12df4b4a5ff2d56451"
+hash = "3468f61b31bff433e274250f9f95fd9cc84c0a64c38a61dbcfedfe79fcb32125"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0360f1b7e138c05c7e8a6541e087eac24845212cb8c0565c3a219c6abf6f41c3"
+hash = "ff72dca3a3ab875975e21a945a6179e51c6972db21b0453f94c1069b0bf96ef1"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d16b4b5ad11c01690bccfcef8b4965123d064da7914451654f3cbea7b9005b2f"
+hash = "7b6f13edbe418e25847eed774d0a9869dd78ecb17adeb471d48dd5b999bfe760"
 metafile = true
 
 [[files]]
 file = "resourcepacks/visible-ores.pw.toml"
-hash = "201f432e35fc029acbb4a523b6856968b6ad1cbd9ec728fbbeef3844c5e57d7a"
+hash = "9fe56b91b31edd889cfb1249b251ddbc541707c50860471f3c9c909eac7a5839"
 metafile = true
 
 [[files]]

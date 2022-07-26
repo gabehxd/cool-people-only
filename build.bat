@@ -11,3 +11,5 @@ cd "output\"
 del %1
 packwiz.exe refresh
 echo Make sure to update isxander-main-menu-credits.json!
+set /p DUMMY=Hit ENTER to continue...
+packwiz.exe curseforge export
