@@ -4,11 +4,11 @@ mkdir output\
 xcopy %1 "fo\"
 cd "fo"
 packwiz.exe curseforge import %1
+del %1
 cd ..
 xcopy "fo\" "output\" /S /Y
 xcopy "Enhancements for Cool People Only!\" "output\" /S /Y
 cd "output\"
-del %1
 packwiz.exe refresh
 echo Make sure to update isxander-main-menu-credits.json!
 set /p DUMMY=Hit ENTER to continue...
