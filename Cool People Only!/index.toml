@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "20e824320bbf6cddb9dcf3affc267f5b4e9855eb561f9df7a0a9cf0e172ca544"
-
-[[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "3119f7935729d45c11f423d3e16b6f5b784196a820fd9384d1c3f6377248a07a"
-
-[[files]]
 file = "config/xaerominimap.txt"
 hash = "eccaf47a968862f88a806d77c684cd5fe4daf36bb96d0139815790570b95262e"
 
