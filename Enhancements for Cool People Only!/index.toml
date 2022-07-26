@@ -48,6 +48,11 @@ hash = "2633c5f40b581ab468143776e8bb54e022cb8aa9ec6c50abfbc2e007915c9f7d"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard-fabric.pw.toml"
+hash = "d580e87dd3fbea1d9bd98da604ff9ed7de782565e507a113031f0555763901aa"
+metafile = true
+
+[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "e6a5f36b516de503c3be53e7980f3c6969aa48543ef1e112b8811c9ca7e060cf"
 metafile = true
