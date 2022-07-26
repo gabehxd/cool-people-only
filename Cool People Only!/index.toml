@@ -1,0 +1,98 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "20e824320bbf6cddb9dcf3affc267f5b4e9855eb561f9df7a0a9cf0e172ca544"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "3119f7935729d45c11f423d3e16b6f5b784196a820fd9384d1c3f6377248a07a"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "eccaf47a968862f88a806d77c684cd5fe4daf36bb96d0139815790570b95262e"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "4fa37b1b93ec201b55bf645a803c6b436f62c1b72f4a9e1b3589f2fa3e771db1"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "3f36783e1bf3267cc6182be453e948c35a03d3c37ad1a676dddacd594bb15ee7"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "dca8984067baec0c454148f88c113e63cda5a2b17b90a14c6a9e3319860c6473"
+
+[[files]]
+file = "config/yosbr/config/lambdabettergrass.toml"
+hash = "a96351b4d852862f0c994cd61a05856c965e73e8f698591f0f2f5ba9a30bd952"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "737d987126219b455279eee35778df3d315791a65d2ded3381fbb4375e4f8787"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "08df82aa377a663cc12adb314456e41ed3437a91808de4169a09c9696a40f676"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "62851ec2ce18eb823c468f9a86ccb97439f29cc52a36ee3a0b71e1b605873290"
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "be4a87d6527bbe07b2e6d38e32995779bd5760340505f58391e6318f16ca3f0d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "1c85df49ef6653679a899b14323d0abe11a99b121c2571f236704d98b4beab24"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "572988bee9c9a34f18f14c58158490b82f8b231a7fa83a4bd9a22b551104c7c7"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "862bc383215946d783029c463ca836da4aa8bba25c59601a685f01c30de5232a"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "13ecd6e934bd20d8f9f38651a9ffe297a22a8ddadfe95cbdc18451d7f3ef3833"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "9147518131e7044466091721dea402eedac68230ca72ba12df4b4a5ff2d56451"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "0360f1b7e138c05c7e8a6541e087eac24845212cb8c0565c3a219c6abf6f41c3"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d16b4b5ad11c01690bccfcef8b4965123d064da7914451654f3cbea7b9005b2f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visible-ores.pw.toml"
+hash = "201f432e35fc029acbb4a523b6856968b6ad1cbd9ec728fbbeef3844c5e57d7a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/normal-luma.txt"
+hash = "17304b1198ab5d98d0f7eb21a58adfe81086c50a9fc5fe13724d1c24aefb5e08"
+
+[[files]]
+file = "shaderpacks/projectLUMA+-+v1.32.zip.txt"
+hash = "c4f3b818c971f744f38d40e5c3134f63ff8a2e8f1db27dbbd9c0573bbd2d08a9"
+
+[[files]]
+file = "simple-rpc/simple-rpc.toml"
+hash = "db0fa7d376aaad8b17182f118a94f2a5287092573e14c313ed094b354ea65de5"
