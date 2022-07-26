@@ -1,2 +1,3 @@
-mode = "fast"
-better_layer = false
+mode = "fancy"
+better_layer = true
+
