@@ -10,5 +10,4 @@ xcopy "Cool People Only!\" "output\" /S /Y
 cd "output\"
 del %1
 packwiz.exe refresh
-packwiz.exe update --all
 echo Make sure to update isxander-main-menu-credits.json!
