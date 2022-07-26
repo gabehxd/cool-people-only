@@ -1,5 +1,6 @@
 @echo off
 mkdir fo\
+mkdir output\
 xcopy %1 "fo\"
 cd "fo"
 packwiz.exe curseforge import %1
