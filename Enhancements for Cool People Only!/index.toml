@@ -1,24 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/xaerominimap.txt"
-hash = "eccaf47a968862f88a806d77c684cd5fe4daf36bb96d0139815790570b95262e"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "4fa37b1b93ec201b55bf645a803c6b436f62c1b72f4a9e1b3589f2fa3e771db1"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "3f36783e1bf3267cc6182be453e948c35a03d3c37ad1a676dddacd594bb15ee7"
-
-[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "dca8984067baec0c454148f88c113e63cda5a2b17b90a14c6a9e3319860c6473"
 
 [[files]]
 file = "config/yosbr/config/lambdabettergrass.toml"
-hash = "a96351b4d852862f0c994cd61a05856c965e73e8f698591f0f2f5ba9a30bd952"
+hash = "27b0a04379d8345e9239a62f38edc78e5762bee87aa826e3fe3ebfa2d166fca3"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "dac35badb4add58d3b2bfe452af5e42a0b0b4c5246b5dfa020d0038eca6a5511"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -29,8 +21,28 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "08df82aa377a663cc12adb314456e41ed3437a91808de4169a09c9696a40f676"
 
 [[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "eccaf47a968862f88a806d77c684cd5fe4daf36bb96d0139815790570b95262e"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap_entities.json"
+hash = "4fa37b1b93ec201b55bf645a803c6b436f62c1b72f4a9e1b3589f2fa3e771db1"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "3f36783e1bf3267cc6182be453e948c35a03d3c37ad1a676dddacd594bb15ee7"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "62851ec2ce18eb823c468f9a86ccb97439f29cc52a36ee3a0b71e1b605873290"
+
+[[files]]
+file = "config/yosbr/shaderpacks/projectLUMA+-+v1.32.zip.txt"
+hash = "7ddbd910fcb4a18dc1d90c61e745ccaff9e0c6dc6477623cfa30968a78bd5a25"
+
+[[files]]
+file = "config/yosbr/simple-rpc/simple-rpc.toml"
+hash = "c81018ed807fa29462c44ce3c91fed92be525940ae899c19be7c9b79181c7ea5"
 
 [[files]]
 file = "mods/badpackets.pw.toml"
@@ -86,15 +98,3 @@ metafile = true
 file = "resourcepacks/visible-ores.pw.toml"
 hash = "9fe56b91b31edd889cfb1249b251ddbc541707c50860471f3c9c909eac7a5839"
 metafile = true
-
-[[files]]
-file = "shaderpacks/normal-luma.txt"
-hash = "17304b1198ab5d98d0f7eb21a58adfe81086c50a9fc5fe13724d1c24aefb5e08"
-
-[[files]]
-file = "shaderpacks/projectLUMA+-+v1.32.zip.txt"
-hash = "c4f3b818c971f744f38d40e5c3134f63ff8a2e8f1db27dbbd9c0573bbd2d08a9"
-
-[[files]]
-file = "simple-rpc/simple-rpc.toml"
-hash = "db0fa7d376aaad8b17182f118a94f2a5287092573e14c313ed094b354ea65de5"
