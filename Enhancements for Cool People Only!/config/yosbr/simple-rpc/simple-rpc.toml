@@ -2,7 +2,7 @@
 #General Config Section. See https://readme.firstdarkdev.xyz/simple-rpc/introduction/
 [general]
 	#The Application ID of the Discord App to use
-	applicationID = 762726289341677668
+	applicationID = 1001790597239144498
 	#Enable/Disable the mod
 	enabled = true
 	#Enable/Disable debugging mode. WARNING: MAY CAUSE LOG SPAM!
@@ -27,9 +27,9 @@
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = ""
+	smallImageKey = "cpo"
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
+	smallImageText = "Enhancements for Cool People Only!"
 	#The buttons to display on Discord
 	buttons = []
 
@@ -46,9 +46,9 @@
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = ""
+	smallImageKey = "cpo"
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
+	smallImageText = "Enhancements for Cool People Only!"
 	#The buttons to display on Discord
 	buttons = []
 
@@ -65,9 +65,9 @@
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = ""
+	smallImageKey = "cpo"
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
+	smallImageText = "Enhancements for Cool People Only!"
 	#The buttons to display on Discord
 	buttons = []
 
@@ -84,9 +84,9 @@
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = ""
+	smallImageKey = "cpo"
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
+	smallImageText = "Enhancements for Cool People Only!"
 	#The buttons to display on Discord
 	buttons = []
 
@@ -103,9 +103,9 @@
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = ""
+	smallImageKey = "cpo"
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
+	smallImageText = "Enhancements for Cool People Only!"
 	#The buttons to display on Discord
 	buttons = []
 
@@ -122,9 +122,9 @@
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = ""
+	smallImageKey = "cpo"
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
+	smallImageText = "Enhancements for Cool People Only!"
 	#The buttons to display on Discord
 	buttons = []
 
@@ -141,9 +141,9 @@
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = ""
+	smallImageKey = "cpo"
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
+	smallImageText = "Enhancements for Cool People Only!"
 	#The buttons to display on Discord
 	buttons = []
 
@@ -160,9 +160,9 @@
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = ""
+	smallImageKey = "cpo"
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "%realmdescription%"
+	smallImageText = "Enhancements for Cool People Only!"
 	#The buttons to display on Discord
 	buttons = []
 
@@ -177,9 +177,9 @@
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = ""
+	smallImageKey = "cpo"
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
+	smallImageText = "Enhancements for Cool People Only!"
 	#The buttons to display on Discord
 	buttons = []
 
