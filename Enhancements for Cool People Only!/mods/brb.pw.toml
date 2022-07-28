@@ -12,7 +12,6 @@ optional = true
 default = false
 description = "An alternative to JEI, JEI does better at displaying recipes and items but brb has a more vanilla feel to it."
 
-
 [update]
 [update.curseforge]
 file-id = 3837129
