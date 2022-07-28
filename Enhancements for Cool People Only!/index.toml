@@ -72,6 +72,11 @@ hash = "b78d0b7bd56547ade707a262edd3c2d032f861a4ccfc930df8ca7d6d49ec0b81"
 metafile = true
 
 [[files]]
+file = "mods/brb.pw.toml"
+hash = "edf92673a0c835bb6e816eca74cdbe73395bfd801a2fcf5a624d8418353f2d51"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "9a606fe0dd0c54fa6af3444e7c1c5e392265ebda4c0a67d02a0a3904972102af"
 metafile = true
@@ -83,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "81e556d6e8bfe387b5c63209f2cc0c2074219784ff19c3be7614bd124a430e89"
+hash = "5786421544b80b280c086edaa3e94c71921d68d247c20e45ca4a2fe7859cb95b"
 metafile = true
 
 [[files]]
