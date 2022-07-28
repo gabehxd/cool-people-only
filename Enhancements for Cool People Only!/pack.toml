@@ -1,12 +1,12 @@
 name = "Enhancements for Cool People Only!"
 author = "gabehxd"
-version = "1.1.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8cbd7387e7c4e2f275f4425631cc0ee1bdb3bccd0faf7eb7117796684bc0d138"
+hash = "e15ccc1aea9342bfea09dfb88a7ce6cf6b41f505202a2b65a7a1e4fca8ed8bd5"
 
 [versions]
 fabric = "0.14.8"
