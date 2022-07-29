@@ -1,18 +1,18 @@
 name = "Simple Voice Chat"
-filename = "voicechat-fabric-1.19-2.2.52.jar"
+filename = "voicechat-fabric-1.19.1-2.2.52.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a5430e1e96e46277a67071f0d0d359159b2ab725"
+hash = "2823e2fc36338620e2576fce15b07a07c2146cb1"
 mode = "metadata:curseforge"
-
-[option]
-optional = true
-default = true
-description = "Good addon for servers that support the mod!"
 
 [update]
 [update.curseforge]
-file-id = 3878175
+file-id = 3902398
 project-id = 416089
+
+[option]
+optional = true
+description = "Good addon for servers that support the mod!"
+default = true

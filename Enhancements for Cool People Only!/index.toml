@@ -54,12 +54,12 @@ hash = "c81018ed807fa29462c44ce3c91fed92be525940ae899c19be7c9b79181c7ea5"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "fc4115abd76427cfdf203686d8a3b4c333dec62a6a0e243ceef27b9c3eacb09c"
+hash = "92c071a097d30547f421c2781ed5a2580d3e88ab6666be1e264a0edfd1bf4c0b"
 metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "e4771d001832c766ff865b602bbca649de026aa2451a21e1e255446e9be8302c"
+hash = "bd44363ed309b231bc0ef7bb199c020325bd29637b4a02382b9e1ae91d8ff544"
 metafile = true
 
 [[files]]
@@ -74,17 +74,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9a606fe0dd0c54fa6af3444e7c1c5e392265ebda4c0a67d02a0a3904972102af"
+hash = "c7deffd338b695e2e6e6f034cf6704f9b2743aca64f2c350945ad5a57dd4b03b"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "6646bac9d504c698fc89ea41e0820739f9711e7a56034ecaf315344b793cbf8a"
+hash = "516d8cac24b4bd3389015e4d2956a5036119d44d27d4b3410bd6f73407aa0d5e"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "96520f0983b9efa49b93b717eb07c7c91f267ae2541037f7a3fe7bf3f5063add"
+hash = "32cc36d43c263038846da7d913d32b0e1cb7ee333d995d9a8c50db5e1ce1e177"
 metafile = true
 
 [[files]]
@@ -99,22 +99,22 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2c54c9e3a658f1f4f6e6f11ef5068975c0b032d6fa537bb0fb6f33d45deae433"
+hash = "cddbbe6dc2ef385ea2d7cd151f3e5cf2c70bb6ffbef17a342bf02c6977ecff54"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "a7a998b00200e5f972168fee92c1ede7fd109c64809551f8fee815880f90c13f"
+hash = "77a72e06541d13fb0220a959054913cb9f97bb412e8062cf581beebf3e37b644"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ff72dca3a3ab875975e21a945a6179e51c6972db21b0453f94c1069b0bf96ef1"
+hash = "da6b13b50be981b49ac43b575cb427c0f5fbbe1ed4cd2d5e633b85dfe40c22d6"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7b6f13edbe418e25847eed774d0a9869dd78ecb17adeb471d48dd5b999bfe760"
+hash = "3549584b4e749a489252afc04095014b820162a0c7d588ace720aacaca5228f3"
 metafile = true
 
 [[files]]
