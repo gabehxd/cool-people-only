@@ -41,6 +41,10 @@ file = "config/yosbr/options.txt"
 hash = "574868970b22a84c154b83765a4c00cb787b086710ab7033597bb7142730c10f"
 
 [[files]]
+file = "config/yosbr/shaderpacks/Sildur's+Vibrant+Shaders+v1.32+High.zip.txt"
+hash = "27061dedb6b93ace89ea5c1db49892d30abc374ad90348631d3e984499a91052"
+
+[[files]]
 file = "config/yosbr/shaderpacks/Sora_Shaders_1.142.zip.txt"
 hash = "81aa7dae6577c7a3aceb220f591a4031d2ae62050287b5862e42ad47932220fc"
 

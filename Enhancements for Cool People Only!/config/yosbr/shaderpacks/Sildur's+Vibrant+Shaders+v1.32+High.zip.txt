@@ -1,0 +1,2 @@
+#Sat Jul 30 02:02:27 PDT 2022
+Godrays_Density=0.575
