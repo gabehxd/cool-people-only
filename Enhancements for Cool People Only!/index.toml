@@ -37,6 +37,10 @@ file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "3f36783e1bf3267cc6182be453e948c35a03d3c37ad1a676dddacd594bb15ee7"
 
 [[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "c981736801104ef5849ac64fb4aa1f1cf919df94841e9189c9efb16ecd98d7b7"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "574868970b22a84c154b83765a4c00cb787b086710ab7033597bb7142730c10f"
 
