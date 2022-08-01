@@ -58,7 +58,7 @@ hash = "c81018ed807fa29462c44ce3c91fed92be525940ae899c19be7c9b79181c7ea5"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "92c071a097d30547f421c2781ed5a2580d3e88ab6666be1e264a0edfd1bf4c0b"
+hash = "6c80b43ada2b8a6e63abb9727684d35d2b723d2dbeeeb1d7f75fa648330984b5"
 metafile = true
 
 [[files]]
@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "adfdb484579590c39ab4566cd2840529639fc4357c7501c2f957f40769b81e54"
+hash = "8be65a7ceacd2fe5a375adc1b5754d17ca656b127bd2c4ef758a5ac1b2ebe898"
 metafile = true
 
 [[files]]
