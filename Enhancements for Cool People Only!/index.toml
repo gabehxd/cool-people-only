@@ -54,7 +54,7 @@ hash = "267c0ce46a0b4830f53143a3bd108b4c62b33374c8fcc16e8c98182b2b26201e"
 
 [[files]]
 file = "config/yosbr/simple-rpc/simple-rpc.toml"
-hash = "c81018ed807fa29462c44ce3c91fed92be525940ae899c19be7c9b79181c7ea5"
+hash = "5b16731e2fb9429d85ba10640a99d0f1f1754ce413b43d5d6ac4711c0b608286"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
