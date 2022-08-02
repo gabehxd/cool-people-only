@@ -37,12 +37,8 @@ file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "3f36783e1bf3267cc6182be453e948c35a03d3c37ad1a676dddacd594bb15ee7"
 
 [[files]]
-file = "config/yosbr/config/zoomify.json"
-hash = "c981736801104ef5849ac64fb4aa1f1cf919df94841e9189c9efb16ecd98d7b7"
-
-[[files]]
 file = "config/yosbr/options.txt"
-hash = "574868970b22a84c154b83765a4c00cb787b086710ab7033597bb7142730c10f"
+hash = "db10556d0d3d4ba318f42630b94a2aaecee0f040e0b1f299efcac152ec924180"
 
 [[files]]
 file = "config/yosbr/shaderpacks/Sildur's+Vibrant+Shaders+v1.32+High.zip.txt"
@@ -59,6 +55,10 @@ hash = "267c0ce46a0b4830f53143a3bd108b4c62b33374c8fcc16e8c98182b2b26201e"
 [[files]]
 file = "config/yosbr/simple-rpc/simple-rpc.toml"
 hash = "5b16731e2fb9429d85ba10640a99d0f1f1754ce413b43d5d6ac4711c0b608286"
+
+[[files]]
+file = "config/zoomify.json"
+hash = "c981736801104ef5849ac64fb4aa1f1cf919df94841e9189c9efb16ecd98d7b7"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
