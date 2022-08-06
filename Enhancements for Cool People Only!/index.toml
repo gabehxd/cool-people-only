@@ -62,7 +62,7 @@ hash = "5b16731e2fb9429d85ba10640a99d0f1f1754ce413b43d5d6ac4711c0b608286"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6c80b43ada2b8a6e63abb9727684d35d2b723d2dbeeeb1d7f75fa648330984b5"
+hash = "8ba09078563faf653202165d172e3fc3dc60340cc047ca6b72d8dcdcada17e40"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "32cc36d43c263038846da7d913d32b0e1cb7ee333d995d9a8c50db5e1ce1e177"
+hash = "91aea0559785498c11b170b5fe2cc748048aa55874c5364fd3312de6b3d86319"
 metafile = true
 
 [[files]]
