@@ -76,11 +76,6 @@ hash = "b78d0b7bd56547ade707a262edd3c2d032f861a4ccfc930df8ca7d6d49ec0b81"
 metafile = true
 
 [[files]]
-file = "mods/brb.pw.toml"
-hash = "ac808448210ca0929c638d53b9483c2c09746bbeaf7cd9395d9d8ce5b67931cd"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "c7deffd338b695e2e6e6f034cf6704f9b2743aca64f2c350945ad5a57dd4b03b"
 metafile = true
