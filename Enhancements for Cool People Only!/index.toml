@@ -42,7 +42,11 @@ hash = "c981736801104ef5849ac64fb4aa1f1cf919df94841e9189c9efb16ecd98d7b7"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "db10556d0d3d4ba318f42630b94a2aaecee0f040e0b1f299efcac152ec924180"
+hash = "9cb236da552b3d90854bf88c113f1226274dbb8f49ab933f2d4fef4a75501917"
+
+[[files]]
+file = "config/yosbr/roughlyenoughitems/config.json5"
+hash = "b5fa32c58d1a2557df574767da86e6c47cb06ef93c1df1b8099912a9164b98be"
 
 [[files]]
 file = "config/yosbr/shaderpacks/Sildur's+Vibrant+Shaders+v1.32+High.zip.txt"
@@ -62,7 +66,7 @@ hash = "5b16731e2fb9429d85ba10640a99d0f1f1754ce413b43d5d6ac4711c0b608286"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "8ba09078563faf653202165d172e3fc3dc60340cc047ca6b72d8dcdcada17e40"
+hash = "1ef34a084abf17662550e824cb16d33fa35a21cd3a45fc96527b1f0a24c7a9ce"
 metafile = true
 
 [[files]]
@@ -76,8 +80,18 @@ hash = "b78d0b7bd56547ade707a262edd3c2d032f861a4ccfc930df8ca7d6d49ec0b81"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "03e0a01e5b1d3dbed13649b3a26d212f52ce27a30bf15d221509238fb4e73e69"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "417d6f9564d5d6c76596ea1287f76def11d40d7b4c2f5e88fd4e00abd34286de"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c7deffd338b695e2e6e6f034cf6704f9b2743aca64f2c350945ad5a57dd4b03b"
+hash = "a9006f90e14388b3175a310e6ae5c0643d386932bd7fff173e324474bfd3c765"
 metafile = true
 
 [[files]]
@@ -86,8 +100,8 @@ hash = "516d8cac24b4bd3389015e4d2956a5036119d44d27d4b3410bd6f73407aa0d5e"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "91aea0559785498c11b170b5fe2cc748048aa55874c5364fd3312de6b3d86319"
+file = "mods/roughly-enough-items.pw.toml"
+hash = "114a46842bf3db1dd5be831f0433be0720a4b5632fc1f36f132104e02d096765"
 metafile = true
 
 [[files]]
@@ -102,12 +116,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a20e2dd8cb60e31b223c6075b27470f5c9233dc3a5cb9881ab87f524728b3f6d"
+hash = "f51c955769ea7fb898698a2c81f67a53ac819630261c2fb7b928818ed478098c"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "77a72e06541d13fb0220a959054913cb9f97bb412e8062cf581beebf3e37b644"
+hash = "6a705131f8d3c8d29b6f06095a338614e07369abfee9b8d7ec507437bfb64368"
 metafile = true
 
 [[files]]
@@ -122,5 +136,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/visible-ores.pw.toml"
-hash = "9fe56b91b31edd889cfb1249b251ddbc541707c50860471f3c9c909eac7a5839"
+hash = "9ebfb809123dd5d5decff26b113cfe5164e58b3de0048d6f0a63e1079f574b08"
 metafile = true

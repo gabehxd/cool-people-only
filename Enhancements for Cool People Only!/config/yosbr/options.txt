@@ -1,4 +1,4 @@
-version:3117
+version:3120
 autoJump:false
 snooperEnabled:false
 darkMojangStudiosBackground:true
@@ -8,13 +8,13 @@ guiScale:3
 maxFps:260
 enableVsync:false
 fullscreen:true
-resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Helper.zip","midnightcontrols/bedrock","file/VisibleOres2.7.zip"]
+resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Helper.zip","midnightcontrols/bedrock","file/VisibleOres2.8.zip"]
 incompatibleResourcePacks:[]
 tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true
 chatPreview:false
-chatScale:0.7629107981220656
+chatScale:0.75
 directionalAudio:true
 fov:0.5
 gamma:1.0
