@@ -5,6 +5,10 @@ file = "config/yosbr/config/betterpingdisplay.json"
 hash = "b6ac6dcb805a7c126a17400ad2c66a6e582cfb6d9585c1ccac9f9d4cbf9e7c3b"
 
 [[files]]
+file = "config/yosbr/config/blur.json"
+hash = "cd496981402680b7f9e9f52c79248a8b86a3602f7d3c6e479aa2cde4ec217ba0"
+
+[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "dca8984067baec0c454148f88c113e63cda5a2b17b90a14c6a9e3319860c6473"
 
@@ -46,7 +50,7 @@ hash = "9cb236da552b3d90854bf88c113f1226274dbb8f49ab933f2d4fef4a75501917"
 
 [[files]]
 file = "config/yosbr/roughlyenoughitems/config.json5"
-hash = "b5fa32c58d1a2557df574767da86e6c47cb06ef93c1df1b8099912a9164b98be"
+hash = "7afe0e3fb436b2cd62d897eeb6da78a4a9a9351c5f136a65ca02161e8d859e4b"
 
 [[files]]
 file = "config/yosbr/shaderpacks/Sildur's+Vibrant+Shaders+v1.32+High.zip.txt"
@@ -102,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "114a46842bf3db1dd5be831f0433be0720a4b5632fc1f36f132104e02d096765"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "6f46cfcca55777b06ce0bf646a815aed4fbc4eb19e21e055a8e6528e41397278"
 metafile = true
 
 [[files]]
