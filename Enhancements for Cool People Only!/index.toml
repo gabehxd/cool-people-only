@@ -70,7 +70,7 @@ hash = "5b16731e2fb9429d85ba10640a99d0f1f1754ce413b43d5d6ac4711c0b608286"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1ef34a084abf17662550e824cb16d33fa35a21cd3a45fc96527b1f0a24c7a9ce"
+hash = "e43da83a31d1b196212048b2b3727fc661c8dafcad7b70830cb851fb3e93827c"
 metafile = true
 
 [[files]]
@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "114a46842bf3db1dd5be831f0433be0720a4b5632fc1f36f132104e02d096765"
+hash = "c038d129d074e2396062e96512c6ff85098129631fac02b068ea9384f9a599ac"
 metafile = true
 
 [[files]]
@@ -125,12 +125,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f51c955769ea7fb898698a2c81f67a53ac819630261c2fb7b928818ed478098c"
+hash = "86e5e069ce3248b4a0afd07d337a9ad3f2ad17e7df74ee5de2a65ce7f19f174e"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "6a705131f8d3c8d29b6f06095a338614e07369abfee9b8d7ec507437bfb64368"
+hash = "f54a7d97548db55e33cf3ade9bbb5eedaf8675005bfe4fc699c025b542efaa08"
 metafile = true
 
 [[files]]
