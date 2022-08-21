@@ -95,17 +95,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a9006f90e14388b3175a310e6ae5c0643d386932bd7fff173e324474bfd3c765"
+hash = "2c77cbb46a5f273a9f1c5da5bb94022c7b1560202c0c3802190958b28956a431"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "516d8cac24b4bd3389015e4d2956a5036119d44d27d4b3410bd6f73407aa0d5e"
+hash = "4e9756623df17e79936609af407aed5543c57f7649caa535e9710fe08a147d85"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "c038d129d074e2396062e96512c6ff85098129631fac02b068ea9384f9a599ac"
+hash = "1c7321d83c9cfa99efd897040a52f263c846ef2b60c3c9cec97ac28ab799cad0"
 metafile = true
 
 [[files]]
@@ -125,22 +125,22 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "86e5e069ce3248b4a0afd07d337a9ad3f2ad17e7df74ee5de2a65ce7f19f174e"
+hash = "32b5199b9eef5617a9bf97e93dfbc86460f5a8948212dcb2f0a53bb629cf5964"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "f54a7d97548db55e33cf3ade9bbb5eedaf8675005bfe4fc699c025b542efaa08"
+hash = "453686f84a1c23e5c2f646e798863886ff7e10823f20cdfb1d30e9549d12c609"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9af5e1f5ec116470e41324f66237e0875e4e096331607c087e5c25fe0b20dc8d"
+hash = "3e9d5c28d8ca72188454689d95205dc40fbb2d2f4374805294036341997f59e8"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ae8dcff8c00a754ae9eb605db547179c19b4e71ec9157a5abb8bcc7f68fc9d23"
+hash = "4e7c2738c2458accfa9def3f011999c21b2eb1a2dd80aa73aefca7ec48bd2e85"
 metafile = true
 
 [[files]]

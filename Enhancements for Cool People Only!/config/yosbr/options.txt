@@ -6,7 +6,6 @@ renderDistance:12
 simulationDistance:12
 guiScale:3
 maxFps:260
-enableVsync:false
 fullscreen:true
 resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Helper.zip","midnightcontrols/bedrock","file/VisibleOres2.8.zip"]
 incompatibleResourcePacks:[]
