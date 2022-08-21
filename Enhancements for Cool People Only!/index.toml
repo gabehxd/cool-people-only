@@ -14,7 +14,7 @@ hash = "dca8984067baec0c454148f88c113e63cda5a2b17b90a14c6a9e3319860c6473"
 
 [[files]]
 file = "config/yosbr/config/lambdabettergrass.toml"
-hash = "27b0a04379d8345e9239a62f38edc78e5762bee87aa826e3fe3ebfa2d166fca3"
+hash = "f913a0c7a45b02be1677195e5c6263a7cfcf640f45ee99dbf129aa0678e28a06"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -26,11 +26,11 @@ hash = "7afe0e3fb436b2cd62d897eeb6da78a4a9a9351c5f136a65ca02161e8d859e4b"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
-hash = "737d987126219b455279eee35778df3d315791a65d2ded3381fbb4375e4f8787"
+hash = "c727654a11847b2287d9d1a721d4b102a8150c5c84f90f486b76ea9533cc98a5"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "08df82aa377a663cc12adb314456e41ed3437a91808de4169a09c9696a40f676"
+hash = "0d4556c551092ca0375201327af5914722bbeb8ad85b720662b4224c99e6abf9"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
@@ -50,11 +50,11 @@ hash = "c981736801104ef5849ac64fb4aa1f1cf919df94841e9189c9efb16ecd98d7b7"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9cb236da552b3d90854bf88c113f1226274dbb8f49ab933f2d4fef4a75501917"
+hash = "ad84c17377f700861619bd9a3d200cab68498ebc6787ecce6e04bec87fd5d656"
 
 [[files]]
-file = "config/yosbr/shaderpacks/Sildur's+Vibrant+Shaders+v1.32+High.zip.txt"
-hash = "27061dedb6b93ace89ea5c1db49892d30abc374ad90348631d3e984499a91052"
+file = "config/yosbr/shaderpacks/Sildur's+Vibrant+Shaders+v1.40+High.zip.txt"
+hash = "55844cd94f7668dd83986efdb503d66f68c7b99f79e7d170779a9adbf6e1ca28"
 
 [[files]]
 file = "config/yosbr/shaderpacks/Sora_Shaders_1.142.zip.txt"
