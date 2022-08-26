@@ -34,7 +34,7 @@ hash = "0d4556c551092ca0375201327af5914722bbeb8ad85b720662b4224c99e6abf9"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "eccaf47a968862f88a806d77c684cd5fe4daf36bb96d0139815790570b95262e"
+hash = "4ac442cf28b34fe3d7a7ed9c2fa80c1b201b7b34a7fb82ecfd1952e230a91b86"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
@@ -42,11 +42,11 @@ hash = "4fa37b1b93ec201b55bf645a803c6b436f62c1b72f4a9e1b3589f2fa3e771db1"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "3f36783e1bf3267cc6182be453e948c35a03d3c37ad1a676dddacd594bb15ee7"
+hash = "bd6b5a83500126f61c759ef39e3b84fd30f8d8ff0600faf4289d6ecfeeb428d7"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
-hash = "c981736801104ef5849ac64fb4aa1f1cf919df94841e9189c9efb16ecd98d7b7"
+hash = "76c7b2c7017202c0a5b5fe87ebd72d89ff43272f6cb4eef4a24ad409dfe85620"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -125,12 +125,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "32b5199b9eef5617a9bf97e93dfbc86460f5a8948212dcb2f0a53bb629cf5964"
+hash = "e4ff3b48d4b20dd134998a6664475701fddf2b91df60307bacd9c4806724a482"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "453686f84a1c23e5c2f646e798863886ff7e10823f20cdfb1d30e9549d12c609"
+hash = "cfa28fa1016177942c069234f2b5026d38b4e414687190d228a0f7ac7425cb73"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "4e7c2738c2458accfa9def3f011999c21b2eb1a2dd80aa73aefca7ec48bd2e85"
+hash = "d58c598b15b566dd3d7b30cd7ab5b80a38a33acc279de79550e98c43aa89727e"
 metafile = true
 
 [[files]]
