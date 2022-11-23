@@ -10,7 +10,7 @@ hash = "cd496981402680b7f9e9f52c79248a8b86a3602f7d3c6e479aa2cde4ec217ba0"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "dca8984067baec0c454148f88c113e63cda5a2b17b90a14c6a9e3319860c6473"
+hash = "ebddeb801f6faa00a932581e48f61dcae1f364cb3c411d74ae664fcb3b5ec2a9"
 
 [[files]]
 file = "config/yosbr/config/lambdabettergrass.toml"
@@ -27,10 +27,6 @@ hash = "7afe0e3fb436b2cd62d897eeb6da78a4a9a9351c5f136a65ca02161e8d859e4b"
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "c727654a11847b2287d9d1a721d4b102a8150c5c84f90f486b76ea9533cc98a5"
-
-[[files]]
-file = "config/yosbr/config/sodium-options.json"
-hash = "0d4556c551092ca0375201327af5914722bbeb8ad85b720662b4224c99e6abf9"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
