@@ -25,8 +25,7 @@ key_key.antighost.reveal:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
-key_key.push_to_talk:key.keyboard.left.alt
-key_key.mute_microphone:key.mouse.5
+key_key.mute_microphone:key.keyboard.left.alt
 key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.unknown
 soundCategory_master:0.70
