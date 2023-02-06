@@ -1,13 +1,13 @@
 name = "Visible Ores"
-filename = "VisibleOres2.8.zip"
+filename = "VisibleOres2.9.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f98d3ce54e47adba709432ca0f2c4bae012860c3"
+hash = "3e963237d72eaa8894219fc9f4610193c03bcbaa"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3925888
+file-id = 4329316
 project-id = 422825

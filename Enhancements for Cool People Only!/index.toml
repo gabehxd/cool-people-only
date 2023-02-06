@@ -46,7 +46,7 @@ hash = "76c7b2c7017202c0a5b5fe87ebd72d89ff43272f6cb4eef4a24ad409dfe85620"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ad84c17377f700861619bd9a3d200cab68498ebc6787ecce6e04bec87fd5d656"
+hash = "d73b23c0526d468fd9d519c60d37cd70b298e6e12a354b8cf3c05e466713640d"
 
 [[files]]
 file = "config/yosbr/shaderpacks/Sildur's+Vibrant+Shaders+v1.40+High.zip.txt"
@@ -66,42 +66,42 @@ hash = "5b16731e2fb9429d85ba10640a99d0f1f1754ce413b43d5d6ac4711c0b608286"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "335b6f0ea36f58f469be5238172a3b05512c0030ea47e9f01567bdb482ef5a03"
+hash = "1326e737e4fe74f3ba8c908a64610d3a80dfffbd1b7cfb3945502a884583934d"
 metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "d9023cc86074ad3e3fec8a7a5ec8ad456fcac04ebd1342ff803d0551fa7d8e56"
+hash = "b72081965596f5c6a13511238a4e1953f10fd803c614937c352ac699c365bdeb"
 metafile = true
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
-hash = "dfc995603786d283e6423fcee1c7191e4f877284e4c50d1d681901a5498bca01"
+hash = "dddf3ea91d5aee0b0438964f7d74568fbc2db3d0b803076122f8b07cea16b1a3"
 metafile = true
 
 [[files]]
 file = "mods/blur-fabric.pw.toml"
-hash = "03e0a01e5b1d3dbed13649b3a26d212f52ce27a30bf15d221509238fb4e73e69"
+hash = "fb6cb71647eeddc941a6d5ed195575a6025afd9ef24a3c47bfeb5fef961d297e"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
+hash = "f6955ad9eef288242d9a15f4e13563ed3bf27b3a0fca1327ba99ef3c56c82280"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3437c4c19f6484284790bc1b1d4b7071022cf956177e4b8f9daf87588222cc1e"
+hash = "8dc142ba6377b4cf1b37a0026636073c91ca93faebe8d20f1f979516420497dd"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "4bcdc91e5cba57a8a294501268420f778febf8f9234d7c634a45bec4d6196495"
+hash = "691f6704f3b17069ce813e8560f21cc8aea631d21196037e2013cfedb9b66f5a"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "b1c480e06288979f13fe1e06bed91ddce28df42b01ee39a6ed90de5ea9fa06d8"
+hash = "52f4ec685f7a52b0a9043f82a8db293ff3130246602fd1ff84b54d09268c1e29"
 metafile = true
 
 [[files]]
@@ -116,30 +116,30 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "f845cf3bf98e1570877c61dcfa8b9c806cb8f08c979bf2f64e9319bf0b9a79fe"
+hash = "8ffad0ca7f97b554dc4e1b206f521725ba7edd2cf76c25d754cbcb857fc642db"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "66946596d30b3bafcfb90c61e735e832b0ec863638c8aa73744a1f6dcab9265a"
+hash = "c4e0a3331bcb25a810df80bcd845f07abae8b6b4e13564d8cec48a81c3a3976c"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "431d19a6959338376d04c9689803131652520f4935789f87338ff4563a0d9b51"
+hash = "3617a3bb4edb0c1059496da54bcf644c4e2fcc67371b0fc81e0330846c64beeb"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "b34dfdadd4c8f7e3668c4c9bd2e56b52282c8d6fef00aa6bc4b8b0b7df6277a9"
+hash = "1540af6dc80d765eb026e2d9dae359afc8bb8ec8eeb81b510e6431c5087ec81d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a7ac6406747d653d7f08966ded1d2e078f3f1507b5ed5d29973a25211f8e3cbf"
+hash = "2b4cb9091f5c4b70abb3f6d80d3da9567e0bb405f728b8efb9e4396268b814d5"
 metafile = true
 
 [[files]]
 file = "resourcepacks/visible-ores.pw.toml"
-hash = "9ebfb809123dd5d5decff26b113cfe5164e58b3de0048d6f0a63e1079f574b08"
+hash = "9bf5ffbb2d669f57f299ea61727a1bd231aded6857b1b54c60bbd3c9b0760a01"
 metafile = true
