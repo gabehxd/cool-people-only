@@ -45,8 +45,36 @@ file = "config/yosbr/config/zoomify.json"
 hash = "76c7b2c7017202c0a5b5fe87ebd72d89ff43272f6cb4eef4a24ad409dfe85620"
 
 [[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.core.config"
+hash = "b15f5a3b8a84bac224b8a9ab04f9a96e547ad21c2c612906db6538fb069d56fd"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.fullmap.config"
+hash = "85f6ff111946f4b7ed5feafd39d0d9c177800591ce748f75fa6186dbb9a340f1"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.minimap.config"
+hash = "e1cf870cefaf525fa94406a61adc2e053eaf03683dac155e30f05b40fc9aa135"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.minimap2.config"
+hash = "8304724869fee924ea35278817ffb0019b6cebb08cb035bd8c54c77a3fb9e1aa"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.topo.config"
+hash = "7f713335de7a597c930ffb02279bce528b8884e9b563474c4204032314c2a852"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.waypoint.config"
+hash = "8d17e32f25c25433b6d70bcc2140e91619097b8d3211acdd9f7d83f036a5adc3"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.webmap.config"
+hash = "f13dddab5b166d39bf307229681addf772d22cd48ec289911f7c1a4a94b94ec9"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "d73b23c0526d468fd9d519c60d37cd70b298e6e12a354b8cf3c05e466713640d"
+hash = "d1a75983b10cb15268ef5a113c737a0ec38adda56a679bfac093c3b33399b495"
 
 [[files]]
 file = "config/yosbr/shaderpacks/Sildur's+Vibrant+Shaders+v1.40+High.zip.txt"
@@ -85,13 +113,18 @@ hash = "fb6cb71647eeddc941a6d5ed195575a6025afd9ef24a3c47bfeb5fef961d297e"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "f6955ad9eef288242d9a15f4e13563ed3bf27b3a0fca1327ba99ef3c56c82280"
+file = "mods/discord-proximity.pw.toml"
+hash = "f341d12c29abbf76f722087a6c8b01103e74b737a5b03a87261088a5324c31f2"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "07513641dc4b0f3ee557333c5dd67c58194ab2a2e97cf34a53b3e71d5a7b6eaa"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8dc142ba6377b4cf1b37a0026636073c91ca93faebe8d20f1f979516420497dd"
+hash = "8727cf93f4bcf0681f6c9e7c3fe3a5c59a3ddcec9db7621e40303e31e163a077"
 metafile = true
 
 [[files]]
@@ -100,13 +133,13 @@ hash = "691f6704f3b17069ce813e8560f21cc8aea631d21196037e2013cfedb9b66f5a"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "52f4ec685f7a52b0a9043f82a8db293ff3130246602fd1ff84b54d09268c1e29"
+file = "mods/journeymap.pw.toml"
+hash = "94b021067abaf75ffe0c94585baa7cee23a3a7b92b07e51e4e066682eeff25cd"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-resources.pw.toml"
-hash = "6f46cfcca55777b06ce0bf646a815aed4fbc4eb19e21e055a8e6528e41397278"
+file = "mods/roughly-enough-items.pw.toml"
+hash = "7a7449d2c061ff1afdd59e5ce308bbdf4110f656b94888a0cd177c50ebda9bb9"
 metafile = true
 
 [[files]]
@@ -120,23 +153,8 @@ hash = "8ffad0ca7f97b554dc4e1b206f521725ba7edd2cf76c25d754cbcb857fc642db"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "c4e0a3331bcb25a810df80bcd845f07abae8b6b4e13564d8cec48a81c3a3976c"
-metafile = true
-
-[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "3617a3bb4edb0c1059496da54bcf644c4e2fcc67371b0fc81e0330846c64beeb"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "1540af6dc80d765eb026e2d9dae359afc8bb8ec8eeb81b510e6431c5087ec81d"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "2b4cb9091f5c4b70abb3f6d80d3da9567e0bb405f728b8efb9e4396268b814d5"
 metafile = true
 
 [[files]]

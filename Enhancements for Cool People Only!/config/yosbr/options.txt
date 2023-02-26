@@ -2,8 +2,8 @@ version:3120
 autoJump:false
 snooperEnabled:false
 darkMojangStudiosBackground:true
-renderDistance:12
-simulationDistance:12
+renderDistance:32
+simulationDistance:32
 guiScale:3
 maxFps:260
 fullscreen:true
@@ -28,5 +28,6 @@ key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.left.alt
 key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.unknown
+key_key.journeymap.fullscreen_chat_position:key.keyboard.unknown
 soundCategory_master:0.70
 soundCategory_music:0.0
