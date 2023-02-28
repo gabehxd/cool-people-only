@@ -2,8 +2,8 @@ version:3120
 autoJump:false
 snooperEnabled:false
 darkMojangStudiosBackground:true
-renderDistance:32
-simulationDistance:32
+renderDistance:18
+simulationDistance:6
 guiScale:3
 maxFps:260
 fullscreen:true

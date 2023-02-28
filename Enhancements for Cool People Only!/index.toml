@@ -74,7 +74,7 @@ hash = "f13dddab5b166d39bf307229681addf772d22cd48ec289911f7c1a4a94b94ec9"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d1a75983b10cb15268ef5a113c737a0ec38adda56a679bfac093c3b33399b495"
+hash = "e9c5b00119d1b6af94055712775a7b557c894e1de8970a957829fad0fabb1eeb"
 
 [[files]]
 file = "config/yosbr/shaderpacks/Sildur's+Vibrant+Shaders+v1.40+High.zip.txt"
@@ -113,11 +113,6 @@ hash = "fb6cb71647eeddc941a6d5ed195575a6025afd9ef24a3c47bfeb5fef961d297e"
 metafile = true
 
 [[files]]
-file = "mods/discord-proximity.pw.toml"
-hash = "f341d12c29abbf76f722087a6c8b01103e74b737a5b03a87261088a5324c31f2"
-metafile = true
-
-[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "07513641dc4b0f3ee557333c5dd67c58194ab2a2e97cf34a53b3e71d5a7b6eaa"
 metafile = true
@@ -150,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "8ffad0ca7f97b554dc4e1b206f521725ba7edd2cf76c25d754cbcb857fc642db"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "c4e0a3331bcb25a810df80bcd845f07abae8b6b4e13564d8cec48a81c3a3976c"
 metafile = true
 
 [[files]]
