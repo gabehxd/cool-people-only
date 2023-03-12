@@ -7,7 +7,7 @@ simulationDistance:6
 guiScale:3
 maxFps:260
 fullscreen:true
-resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Helper.zip","midnightcontrols/bedrock","file/VisibleOres2.8.zip"]
+resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Helper.zip","midnightcontrols/bedrock","file/VisibleOres2.9.zip"]
 incompatibleResourcePacks:[]
 tutorialStep:none
 skipMultiplayerWarning:true
