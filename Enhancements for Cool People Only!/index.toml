@@ -29,18 +29,6 @@ file = "config/yosbr/config/sodium-extra-options.json"
 hash = "c727654a11847b2287d9d1a721d4b102a8150c5c84f90f486b76ea9533cc98a5"
 
 [[files]]
-file = "config/yosbr/config/xaerominimap.txt"
-hash = "4ac442cf28b34fe3d7a7ed9c2fa80c1b201b7b34a7fb82ecfd1952e230a91b86"
-
-[[files]]
-file = "config/yosbr/config/xaerominimap_entities.json"
-hash = "4fa37b1b93ec201b55bf645a803c6b436f62c1b72f4a9e1b3589f2fa3e771db1"
-
-[[files]]
-file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "bd6b5a83500126f61c759ef39e3b84fd30f8d8ff0600faf4289d6ecfeeb428d7"
-
-[[files]]
 file = "config/yosbr/config/zoomify.json"
 hash = "76c7b2c7017202c0a5b5fe87ebd72d89ff43272f6cb4eef4a24ad409dfe85620"
 
